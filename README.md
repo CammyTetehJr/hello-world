@@ -1,4 +1,4 @@
 # hello-world
 My first repository
 
-here is my first commit, trying to undesrtand how this works
+here is my first commit, trying to understand how this works
